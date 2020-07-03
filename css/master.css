@@ -1,0 +1,39 @@
+*{margin: 0;}
+html, body {width: 100%;}
+
+.logo_form{height: 100px;background-color: #ffffff;text-align: center;}
+.logotext_form{position: relative;top: 25px;}
+
+.logotext_form a:link{text-decoration: none;color: white;}
+.logotext_form a:visited{color: white;}
+.logotext_form a:active{color: white;}
+.logotext_form a:hover{color: white;}
+
+.menu_form{height: 30px;background-color: #ffffff;text-align: center;}
+.menutext_form{display: inline-block;margin: 0px 70px 70px 20px; font-size: 1.1em;font-family: 'Roboto Condensed', sans-serif;font-size: 1em;font-weight: 400;font-style: italic;}
+
+.menutext_form a:link{text-decoration: none;color: #303030;}
+.menutext_form a:visited{text-decoration: none;color: #303030;}
+.menutext_form a:active{text-decoration: none;color: #303030;}
+.menutext_form a:hover{text-decoration: none;color: #e23434;}
+
+#pr{height: 543px;width: 100%;background-size: cover;}
+
+.p1{background-image: url(../img/p1_1.png);}
+.p2{background-image: url(../img/p2_1.png);}
+.p3{background-image: url(../img/p3_1.png);}
+
+.posi{text-align: center;position: relative; top:50%; transform: translateY(-50%);}
+.posi :hover{transform: scale(1.1);transition: 1s;}
+
+.footer_form{height: 78px;background-color: #dbdbdb;}
+.footertext_form{color: #5c5c5c;font-family: 'Nanum Gothic', sans-serif;font-size: 1em;font-weight: 100;text-align: center;position: relative;top:35%;text-transform: uppercase;}
+
+.p01_1{background-image: url(../img/p01_1.png);height: 251px;background-size: cover;}
+.p01_2{text-align: center;}
+
+.p02_1{background-image: url(../img/p02_1.png);height: 251px;background-size: cover;}
+.p02_2{text-align: center;background-size: cover;}
+
+.p03_1{background-image: url(../img/p03_1.png);height: 251px;background-size: cover;}
+.p03_2{text-align: center;background-size: cover;}
